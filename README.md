@@ -11,7 +11,7 @@
 
 ___
 > How to run
-1. run "ServerTest.java"file ** at first**.
+1. run "ServerTest.java"file **at first**.
 2. after run "ClientTest.java"file.
 3. **I recommended split terminal windows.**
 4. When "닉네임을 입력하세요" is appears, enter your chat nick name.
