@@ -1,8 +1,8 @@
 # JAVA ServerSocket Nextwork
-## Chat program
+## Chat program using thread
 
 > includes
-- chatThread.java
+- chatThread.java 
 - ClientTest.java
 - Communicate.java
 - CommunicateThread.java
